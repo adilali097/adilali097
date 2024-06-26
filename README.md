@@ -4,7 +4,7 @@
   
 ### <div align="center">I'm Muhammed Ali, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
-- 🔭 I’m currently working on [Gmail Automation Tool](https://github.com/adilali097/Gmail-automation-tool)  
+- 🔭 I’m currently working on [CornAI](https://github.com/muhammedadnanv/Corn.ai.git)  
 - 🌱 I’m currently learning Toogle AI and ML ON Kaggle  
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ Fun fact: I use tabs over spaces  
